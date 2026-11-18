@@ -39,3 +39,6 @@ Open these API endpoints in a browser:
 The Jenkinsfile runs checkout, dependency installation, tests, build, and artifact archiving.
 
 Note: This Jenkinsfile uses Windows `bat` commands. For a Linux Jenkins agent, replace each `bat` with `sh`.
+
+
+Testing Jenkins automatic build.
