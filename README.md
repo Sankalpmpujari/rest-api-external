@@ -41,4 +41,6 @@ The Jenkinsfile runs checkout, dependency installation, tests, build, and artifa
 Note: This Jenkinsfile uses Windows `bat` commands. For a Linux Jenkins agent, replace each `bat` with `sh`.
 
 
-Testing Jenkins automatic build.
+Testing Jenkins automatic build
+
+build successful
